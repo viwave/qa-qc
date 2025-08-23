@@ -17,3 +17,21 @@
 
 ### Сиды
 [seed.sql](seed.sql)
+
+### SQL query
+```sql
+SELECT
+    s.student_id,
+    s.first_name,
+    s.last_name,
+    s.middle_name,
+    s.address,
+    g.group_name
+FROM students s
+         LEFT JOIN groups g
+                   ON s.group_id = g.group_id
+ORDER BY s.student_id ASC
+LIMIT 10;
+```
+### Результат SQL query
+![img.png](img.png)
