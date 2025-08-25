@@ -1,3 +1,17 @@
+# Table of Contents
+1. [Test Cases](#test-cases)
+    - [TC_FUN_01](#test-case-id-tc_fun_01)
+    - [TC_FUN_02](#test-case-id-tc_fun_02)
+    - [TC_UI_01](#test-case-id-tc_ui_01)
+    - [TC_UI_02](#test-case-id-tc_ui_02)
+2. [Defects](#defects)
+    - [DF_01](#defect-id-df_01)
+    - [DF_02](#defect-id-df_02)
+    - [DF_03](#defect-id-df_03)
+    - [DF_04](#defect-id-df_04)
+    - [DF_05](#defect-id-df_05)
+3. [SQL Queries](#sql-база-данных-sqlite)
+
 # Test cases:
 ### Test Case ID: TC_FUN_01
 **Summary:** Verify sorting functionality for the Name column in the Students List  
