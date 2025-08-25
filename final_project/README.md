@@ -10,7 +10,7 @@
     - [DF_03](#defect-id-df_03)
     - [DF_04](#defect-id-df_04)
     - [DF_05](#defect-id-df_05)
-3. [SQL Queries](#sql-база-данных-sqlite)
+3. [SQL Query](#sql-база-данных-sqlite)
 
 # Test cases:
 ### Test Case ID: TC_FUN_01
